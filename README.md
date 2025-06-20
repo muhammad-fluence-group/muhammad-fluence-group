@@ -82,13 +82,6 @@ Here are some projects I’ve shipped:
 
 ---
 
-### 📢 Let’s Build Something Smart Together!
-
-If you're looking for someone who can **code, automate, and ship**, I’d love to collaborate with you.  
-Whether it’s a startup idea, enterprise workflow, or an AI agent — I’m all ears.
-
----
-
 ### 🔗 Connect with Me
 
 - 🌐 [Portfolio](https://muhammadz.fun)  
@@ -100,5 +93,5 @@ Whether it’s a startup idea, enterprise workflow, or an AI agent — I’m all
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zohaib-ai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
